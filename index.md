@@ -32,4 +32,5 @@ Wifi dengan standar ini memiliki data rate sebesar 6 Mbps sampai 54Mbps. Daya ja
 
 # Encoding
 Encoding adalah proses konversi informasi dari suatu sumber (objek) menjadi data, yang selanjutnya dikirimkan ke penerima atau pengamat, seperti pada sistem pemrosesan data.
-## Contoh encoding: pada saat kita mengompress file menjadi zip (atau rar,tar,dll) dengan diberi password. 
+## Contoh encoding: 
+Pada saat kita mengompress file menjadi zip (atau rar,tar,dll) dengan diberi password. 
